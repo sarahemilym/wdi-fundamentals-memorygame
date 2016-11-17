@@ -51,6 +51,11 @@ h2 {
 	color: #ff0000;
 }
 
+img {
+	height: 200px;
+	width: 150px;
+}
+
 h1, h2, p {
 	text-align: center;
 }
